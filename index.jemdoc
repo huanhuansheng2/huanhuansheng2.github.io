@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang
+== Huanhuan Sheng
 
 ~~~
 {}{img_left}{photos/bio4.jpeg}{alt text}{326px}{245px}
-[https://huanhuansheng2.github.io Huanhuan Sheng], Master \n 
-Applied Scientist II at [https://www.amazon.com/ Amazon] \n
+[https://huanhuansheng2.github.io Huanhuan Sheng] \n 
+Master's Student at [http://www.iscas.ac.cn/ Institute of Software, Chinese Academy of Sciences] \n
 Beijing, China \n
 \n
 Email: shenghh@ios.ac.com \n
@@ -29,9 +29,24 @@ at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
 
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sep. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
+- M.Eng. in Computer Science, Institute of Software, Chinese Academy of Sciences, Sep. 2020 (- July 2023)
+- B.Eng. in Materials Science and Engineering, Zhejiang University, Sep. 2016 - July 2020
+- Summer Session Program, King's College London
+
+== Experiences
+== Research Experiences
+- HHLPy: Practical Verification of Hybrid Systems using Hoare Logic
+Research Assistant, Thesis Research
+-- Built the proof system based on Hoare Logic. Extend Hoare Logic to handle hybrid systems.
+-- Designed labelling and highlighting mechanisms to distinguish and visualize verification conditions.
+-- Implemented the tool with Python and JavaScript. The tool has a friendly user interface.
+The tool participated in Hybrid Systems Theorem Proving category in the ARCH-COMP Friendly Competition 2022.
+The paper is in preparation.
+
+- Requirements Classification and Formalization of Trustworthy Systems
+Group Member, Industrial Collaboration with Huawei
+-- Specified product requirements of trustworthy systems in formal language. 
+-- Searched and summarized verification methods and tools.
 
 == Research Interests 
 - Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
