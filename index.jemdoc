@@ -2,7 +2,7 @@
 == Huanhuan Sheng
 
 ~~~
-#{}{img_left}{photos/self.png}{alt text}{326px}{245px}
+{}{img_left}{photos/self.png}{alt text}{326px}{245px}
 [https://huanhuansheng2.github.io Huanhuan Sheng] \n 
 Master's Student at [http://english.is.cas.cn/ Institute of Software, Chinese Academy of Sciences] \n
 Beijing, China \n
@@ -15,7 +15,7 @@ Email: shenghh@ios.ac.com \n
 
 
 #at Baton Rouge, Louisiana, USA. (March 19, 2021)
-at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
+# at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
 #== News
 #- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
@@ -26,7 +26,7 @@ at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I am a Master's student in computer science at Institute of Software, Chinese Academy of Sciences, under the guidance of Dr. [https://lcs.ios.ac.cn/~bzhan/ Bohua Zhan]. I am in the [https://lcs.ios.ac.cn/en/ State Key Lab. of Computer Science] leaded by Prof. [https://lcs.ios.ac.cn/~znj/ Naijun Zhan]. My research focused on theorem proving on hybrid systems last academic year. And I am going to work on safe reinforcement learning via formal methods this semester.
+I am a Master's student in computer science at Institute of Software, Chinese Academy of Sciences, under the guidance of Dr. [https://lcs.ios.ac.cn/~bzhan/ Bohua Zhan]. I am in the [https://lcs.ios.ac.cn/en/ State Key Lab. of Computer Science] leaded by Prof. [https://lcs.ios.ac.cn/~znj/ Naijun Zhan]. My research focused on theorem proving of hybrid systems last academic year. And I am going to work on safe reinforcement learning via formal methods this semester.
 
 == Education 
 - M.Eng. in Computer Science, Institute of Software, Chinese Academy of Sciences(ISCAS), Sep. 2020 (- July 2023)
