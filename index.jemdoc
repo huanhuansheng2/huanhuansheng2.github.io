@@ -2,7 +2,7 @@
 == Huanhuan Sheng
 
 ~~~
-{}{img_left}{photos/self.png}{alt text}{326px}{245px}
+{}{img_left}{photos/self.jpg}{alt text}{326px}{245px}
 [https://huanhuansheng2.github.io Huanhuan Sheng] \n 
 Master's Student at [http://english.is.cas.cn/ Institute of Software, Chinese Academy of Sciences] \n
 Beijing, China \n
@@ -36,7 +36,6 @@ I am a Master's student in computer science at Institute of Software, Chinese Ac
 == Experiences
 === Research Experiences
 - HHLPy: Practical Verification of Hybrid Systems using Hoare Logic \n
-
 Research Assistant, Thesis Research
 -- Extent Hoare Logic to hybrid systems expressed in HCSP (Hybrid Communicating Sequential Processes).
 -- Designed and implemented the verification condition generation algorithm.
@@ -60,15 +59,14 @@ Group Member, Industrial Collaboration with Huawei
 - 2nd Prize of Academic Scholarships, 2021
 - Outstanding Graduates of Zhejiang University, 2020
 - Zhejiang Government Scholarship, 2017 & 2018
-- 2nd Prize of Outstanding Student Scholarship, 2017 & 2018
-- etc
+- 2nd Prize of Outstanding Student Scholarship, 2017 & 2018, etc
 
 == Publications
 - Huanhuan Sheng, Alexander Bentkamp, Bohua Zhan. HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic (under review)
 - Shuling Wang, Bohua Zhan, Huanhuan Sheng, Hao Wu, Shicheng Yi, Lingtai Wang, Xiangyu Jin, Bai Xue, Jinghui Li, Shuangqing Xiang, et al. Survey of requirements classification and formalization of trustworthy systems. Journal of Software, 33(7):2367–2410, 2
 
-~~~
+# ~~~
 # {}{raw}
 # <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
-~~~
+# ~~~
 
