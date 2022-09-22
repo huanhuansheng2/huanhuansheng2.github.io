@@ -35,22 +35,22 @@ I am a Master's student in computer science at Institute of Software, Chinese Ac
 
 == Experiences
 === Research Experiences
-- HHLPy: Practical Verification of Hybrid Systems using Hoare Logic \n
+- HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic \n
 Research Assistant, Thesis Research
 -- Extent Hoare Logic to hybrid systems expressed in HCSP (Hybrid Communicating Sequential Processes).
 -- Designed and implemented the verification condition generation algorithm.
 -- Designed a labelling system and code highlighting mechanism to distinguish and visualize verification conditions.
--- Implemented the tool with Python and JavaScript. The tool has a friendly user interface.
+-- Implemented the tool with Python and JavaScript. The tool has a friendly user interface.\n
 The tool participated in Hybrid Systems Theorem Proving category in the ARCH-COMP Friendly Competition 2022.
 
 - Requirements Classification and Formalization of Trustworthy Systems \n
 Group Member, Industrial Collaboration with Huawei
 -- Specified product requirements of trustworthy systems in formal language. 
--- Searched and summarized verification methods and tools for requirements.
+-- Searched and summarized verification methods and tools for the requirements.
 
 === Courses
 - Formal Methods:
-         Read Principles of Model Checking and Logical Foundations of Cyber-Physical Systems
+         Read Principles of Model Checking and Logical Foundations of Cyber-Physical Systems.
 - Deep Learning, Reinforcement Learning:
         Completed projects such as sentiment analysis of movie comments, automatic poem writing,
         cats vs dogs classification, cart pole, etc.
