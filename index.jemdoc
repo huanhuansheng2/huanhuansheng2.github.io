@@ -29,13 +29,13 @@ Email: shenghh@ios.ac.cn \n
 I am a Master's student in computer science at Institute of Software, Chinese Academy of Sciences, under the guidance of Dr. [https://lcs.ios.ac.cn/~bzhan/ Bohua Zhan]. I am in the [https://lcs.ios.ac.cn/en/ State Key Lab. of Computer Science] leaded by Prof. [https://lcs.ios.ac.cn/~znj/ Naijun Zhan]. My research focused on theorem proving of hybrid systems last academic year. And I am going to work on safe reinforcement learning via formal methods this semester.
 
 == Education 
-- M.Eng. in Computer Science, Institute of Software, Chinese Academy of Sciences(ISCAS), Sep. 2020 (- July 2023)
-- B.Eng. in Materials Science and Engineering, Zhejiang University(ZJU), Sep. 2016 - July 2020
-- Summer Session Program, King's College London, July 2019 - Aug. 2019
+- M.Eng. in Computer Science, Institute of Software, Chinese Academy of Sciences (ISCAS), Sep. 2020 (- July 2023)
+- B.Eng. in Materials Science and Engineering, Zhejiang University (ZJU), Sep. 2016 - July 2020
+- Summer Session Program, King's College London (KCL), July 2019 - Aug. 2019
 
 == Experiences
 === Research Experiences
-- HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic \n
+- *HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic* \n
 Research Assistant, Thesis Research
 -- Extent Hoare Logic to hybrid systems expressed in HCSP (Hybrid Communicating Sequential Processes).
 -- Designed and implemented the verification condition generation algorithm.
@@ -43,17 +43,22 @@ Research Assistant, Thesis Research
 -- Implemented the tool with Python and JavaScript. The tool has a friendly user interface.\n
 The tool participated in Hybrid Systems Theorem Proving category in the ARCH-COMP Friendly Competition 2022.
 
-- Requirements Classification and Formalization of Trustworthy Systems \n
+- *Requirements Classification and Formalization of Trustworthy Systems* \n
 Group Member, Industrial Collaboration with Huawei
 -- Specified product requirements of trustworthy systems in formal language. 
 -- Searched and summarized verification methods and tools for the requirements.
 
-=== Courses
-- Formal Methods:
-         Read Principles of Model Checking and Logical Foundations of Cyber-Physical Systems.
+=== Course Projects
+- *Formal Methods*:
+         Read /Principles of Model Checking/ and /Logical Foundations of Cyber-Physical Systems/.
 - Deep Learning, Reinforcement Learning:
         Completed projects such as sentiment analysis of movie comments, automatic poem writing,
         cats vs dogs classification, cart pole, etc.
+- Network Attack and Defense:
+    Implemented a Network Sniffer, 
+    Ran a Buffer Overflow Attack on War-ftp 1.65.
+- Concurrent Data Structures and Multicore Programming:
+    Built a Train Ticketing System.
 
 == Honors
 - 2nd Prize of Academic Scholarships, 2021
@@ -62,8 +67,8 @@ Group Member, Industrial Collaboration with Huawei
 - 2nd Prize of Outstanding Student Scholarship, 2017 & 2018, etc
 
 == Publications
-- Huanhuan Sheng, Alexander Bentkamp, Bohua Zhan. HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic (under review)
-- Shuling Wang, Bohua Zhan, Huanhuan Sheng, Hao Wu, Shicheng Yi, Lingtai Wang, Xiangyu Jin, Bai Xue, Jinghui Li, Shuangqing Xiang, et al. Survey of requirements classification and formalization of trustworthy systems. Journal of Software, 33(7):2367–2410, 2
+- *Huanhuan Sheng*, Alexander Bentkamp, Bohua Zhan. HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic (under review)
+- Shuling Wang, Bohua Zhan, *Huanhuan Sheng*, Hao Wu, Shicheng Yi, Lingtai Wang, Xiangyu Jin, Bai Xue, Jinghui Li, Shuangqing Xiang, et al. Survey of requirements classification and formalization of trustworthy systems. Journal of Software, 33(7):2367–2410, 2
 
 # ~~~
 # {}{raw}
