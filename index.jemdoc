@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
+# cmd: python2 jem/jemdoc.py index.jemdoc
 == Huanhuan Sheng
 
 ~~~
@@ -67,7 +68,7 @@ Group Member, Industrial Collaboration with Huawei
 - 2nd Prize of Outstanding Student Scholarship, 2017 & 2018, etc
 
 == Publications
-- *Huanhuan Sheng*, Alexander Bentkamp, Bohua Zhan. HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic (under review)
+- *Huanhuan Sheng*, Alexander Bentkamp, Bohua Zhan. HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic. FM 2023 (under review)
 - Shuling Wang, Bohua Zhan, *Huanhuan Sheng*, Hao Wu, Shicheng Yi, Lingtai Wang, Xiangyu Jin, Bai Xue, Jinghui Li, Shuangqing Xiang, et al. Survey of requirements classification and formalization of trustworthy systems. Journal of Software, 33(7):2367–2410, 2
 
 # ~~~
